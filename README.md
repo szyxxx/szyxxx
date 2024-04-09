@@ -4,10 +4,9 @@
 
 Hi, my name is Axel and i'm a computer engineering student who loves to code and learn web development and machine learning. 
 
-<div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=szyxxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=szyxxx&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-
+  <img src="https://streak-stats.demolab.com?user=szyxxx&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
    <p align="left">
@@ -35,6 +34,8 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=szyxxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<br/>
 
 <h3>❗FAQS</h3>
    <ul>
