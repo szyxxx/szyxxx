@@ -1,4 +1,4 @@
-# It's Szyx!
+# It's Szyx ✌️
 
 ## `Nytophile Coder`
 
