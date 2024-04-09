@@ -4,6 +4,13 @@
 
 Hi, my name is Axel and i'm a computer engineering student who loves to code and learn web development and machine learning. 
 
+### Statistic
+<div>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=szyxxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=szyxxx&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+
+</div>
+
    <p align="left">
       <a href="https://github.com/szyxxx?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/szyxxx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -26,4 +33,18 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
+<br/><br/>
+
+
+<details>
+ <summary><h3>👨‍💻 Why Coding?</h3></summary>
+   My journey into the world of programming truly began with my first encounter with the C programming language. As a novice, I found myself grappling with its complexities, struggling to comprehend its intricacies. However, fate had something else in store for me.
+It was during this time that I stumbled upon Python, a programming language that would change the course of my journey. Instantly, I found myself grasping the fundamentals of coding with ease. Python's simplicity and versatility provided me with a newfound understanding of programming concepts, shedding light on the intricacies of C that had previously eluded me.
+As I progressed through my college semesters, I developed a profound appreciation for the art of coding. With each line of code I wrote, I found myself immersed in a world of endless possibilities and boundless creativity.
+
+Today, I find myself drawn to the realms of web development and machine learning, each offering a unique canvas upon which I can unleash my creativity and expertise. My journey from web design to computer engineering has been marked by challenges and triumphs, but through it all, one thing remains constant – my unwavering passion for coding.
+
+
+###
+
+![Recently Playes](https://spotify-recently-played-readme.vercel.app/api?user=21ychoh3xlwohzqhrclohxo2i&width=1000&count=3)
