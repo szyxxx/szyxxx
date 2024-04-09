@@ -34,8 +34,6 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=szyxxx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-<br/>
 
 <h3>❗FAQS</h3>
    <ul>
