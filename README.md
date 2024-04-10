@@ -10,7 +10,7 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
 </div>
 
    <p align="left">
-      <a href="">
+      <a href="https://instagram.com/axelldvid">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://github.com/szyxxx?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/szyxxx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
