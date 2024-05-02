@@ -32,6 +32,7 @@ Today, I find myself drawn to the realms of web development and machine learning
       <li>🎧 Currently Listening</li>
       <br/>
       ![Recently Playes](https://spotify-recently-played-readme.vercel.app/api?user=21ychoh3xlwohzqhrclohxo2i&width=1000&count=3)
+      <br/>
       <li>🧰 Languages and Tools</li>
       <br/>
       <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
