@@ -25,7 +25,7 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
       <p>
           My coding journey started with the classic C language. As a beginner, I struggled with its complexities. But then I discovered Python, and it was a game-changer. Python's simplicity made coding much easier, and I quickly grasped the fundamentals.
 
-As I progressed in college, I fell in love with coding. Every line I wrote opened up new possibilities. Today, I'm passionate about web development and machine learning. My journey from web design to computer engineering has been full of challenges and victories, but my love for coding has always been constant.
+As I progressed in college, I fell in love with coding. Every line I wrote opened up new possibilities. Today, I'm passionate about Web Development and had keen interest to Cloud Computing. My journey from web design to computer engineering has been full of challenges and victories, but my love for coding has always been constant.
       </p>
       <li>🎧 Currently Listening</li>
       <br/>
