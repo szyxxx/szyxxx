@@ -2,7 +2,7 @@
 
 **`Nyctophile Coder`** **`INFP`** **`Gemini`**
 
-Hi, my name is Axel and i'm a computer engineering student who loves to code and learn web development and machine learning. 
+Hi, my name is Axel and i'm a computer engineering student who loves to code and learn web development and keen interest in cloud computing. 
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=szyxxx&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
