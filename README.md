@@ -23,11 +23,9 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
    <ul>
       <li>👨‍💻 Why Coding?</li>
       <p>
-          My journey into the world of programming truly began with my first encounter with the C programming language. As a novice, I found myself grappling with its complexities, struggling to comprehend its intricacies. However, fate had something else in store for me.
-It was during this time that I stumbled upon Python, a programming language that would change the course of my journey. Instantly, I found myself grasping the fundamentals of coding with ease. Python's simplicity and versatility provided me with a newfound understanding of programming concepts, shedding light on the intricacies of C that had previously eluded me.
-As I progressed through my college semesters, I developed a profound appreciation for the art of coding. With each line of code I wrote, I found myself immersed in a world of endless possibilities and boundless creativity.
+          My coding journey started with the classic C language. As a beginner, I struggled with its complexities. But then I discovered Python, and it was a game-changer. Python's simplicity made coding much easier, and I quickly grasped the fundamentals.
 
-Today, I find myself drawn to the realms of web development and machine learning, each offering a unique canvas upon which I can unleash my creativity and expertise. My journey from web design to computer engineering has been marked by challenges and triumphs, but through it all, one thing remains constant – my unwavering passion for coding.
+As I progressed in college, I fell in love with coding. Every line I wrote opened up new possibilities. Today, I'm passionate about web development and machine learning. My journey from web design to computer engineering has been full of challenges and victories, but my love for coding has always been constant.
       </p>
       <li>🎧 Currently Listening</li>
       <br/>
