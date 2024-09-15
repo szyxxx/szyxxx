@@ -6,7 +6,7 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=szyxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szyxxx&theme=dark&hide_border=true" />
 </div>
 
    <p align="left">
@@ -34,6 +34,7 @@ As I progressed in college, I fell in love with coding. Every line I wrote opene
       <br/>
       <li>🧰 Languages and Tools</li>
       <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
       <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
       <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
       <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
