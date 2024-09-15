@@ -36,6 +36,9 @@ As I progressed in college, I fell in love with coding. Every line I wrote opene
       <br/>
       <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+<p align="left">
   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -48,7 +51,6 @@ As I progressed in college, I fell in love with coding. Every line I wrote opene
   <img alt="Linux" width="23px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
-
    </ul>
 
 ---
