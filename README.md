@@ -7,6 +7,7 @@ Hi, my name is Axel and i'm a computer engineering student who loves to code and
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=szyxxx&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
    <img src="https://github-readme-stats.vercel.app/api?username=szyxxx&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
    <p align="left">
