@@ -26,9 +26,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=szyxxx&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Axel's GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Axel's Top Languages"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=szyxxx&theme=radical&hide_border=true" alt="Axel's GitHub Streak"/>
-</p>
 
 ---
 
