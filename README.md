@@ -1,6 +1,6 @@
-# Hi there, I'm Axel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1>Hi there, I'm Axel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<p align="center">
+<p align="left">
   <code>Computer Engineering Student</code> | <code>AI Enthusiast</code> | <code>Cloud Explorer</code>
 </p>
 
