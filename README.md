@@ -12,9 +12,9 @@
 
 ### 🛠️ My Tech Stack
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c,kotlin,git,linux,figma,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,nextjs,googlecloud,supabase,git,linux,figma&theme=dark" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ### 🎧 What I'm Listening To
 
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/21ychoh3xlwohzqhrclohxo2i">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21ychoh3xlwohzqhrclohxo2i&count=5" alt="Spotify Recently Played" />
   </a>
@@ -51,4 +51,5 @@
   <a href="[Your Instagram]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <!-- Add other social media links here -->
 </p>
+
 
