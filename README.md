@@ -6,7 +6,7 @@
 
 <br>
 
-🚀 I'm currently navigating the world of Computer Engineering, fueled by a passion for turning complex problems into elegant code. My journey started with C, took an exciting turn with Python, and now I'm diving deep into web technologies and the cloud!
+🚀 I'm currently navigating the world of Computer Engineering, fueled by a passion for turning complex problems into elegant code. My journey started with C, took an exciting turn with Python, and now I'm diving deep into AI technologies and the cloud!
 
 ---
 
