@@ -54,8 +54,6 @@ me.say_hi()
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git&theme=dark" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
 
 #### ☁️ Cloud & Data
@@ -70,7 +68,6 @@ me.say_hi()
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,figma&theme=dark" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" />
 </p>
 
 ---
