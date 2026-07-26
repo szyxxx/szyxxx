@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:0F0F1B&height=6&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:0F0F1B&height=200&section=header&text=axel%40dev-machine&fontSize=48&fontColor=E5E7EB&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20MLOps%20%C2%B7%20Multi-Agent%20Systems&descSize=16&descAlignY=55" width="100%"/>
 
-<h1>axel@dev-machine</h1>
-<sub>AI Engineer · MLOps · Multi-Agent Systems · M.S. Information System & Technology, ITB Bandung</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=building+multi-agent+systems+%40+ITB+Bandung;shipping+KawanAI+%2B+thesis;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+NestJS;turning+data+into+insight" alt="typing"/>
 
 </div>
 
@@ -30,15 +29,27 @@
 
 <br/>
 
+### 🐍 contribution feed — live snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+### 📈 activity pulse
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=szyxxx&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&custom_title=commit%20heartbeat%20%E2%80%94%20last%2030%20days" width="100%"/>
+</div>
+
 <table width="100%">
 <tr>
 <td width="66%" valign="top">
 
-### 🏙️ Contribution Skyline — isometric
+### 🏆 trophy shelf
 
-<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>3D isometric render of contribution history — generated via GitHub Action, see setup notes ⬇</sub>
+<img src="https://github-profile-trophy.vercel.app/?username=szyxxx&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="100%"/>
 
 </td>
 <td width="34%" valign="top">
@@ -66,9 +77,7 @@
 
 ### 🍩 Language Mix
 
-<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/main/metrics.languages.svg" width="100%"/>
-
-<sub>rendered by `lowlighter/metrics` — donut plugin, see setup ⬇</sub>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&layout=donut&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9&hide_title=true" width="100%"/>
 
 </td>
 <td width="34%" valign="top">
@@ -126,7 +135,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1B,50:8B5CF6,100:22D3EE&height=6&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1B,50:8B5CF6,100:22D3EE&height=120&section=footer" width="100%"/>
 
 <sub><i>"turning data into information, and information into insight."</i></sub>
 
@@ -137,69 +146,35 @@
 SETUP NOTES — delete this block once configured
 ════════════════════════════════════════════════════════════════
 
-This concept intentionally mixes THREE kinds of graphics so it looks
-different from typical profiles:
-  1. Live services (no setup)   → radar chart, stats, streak, spotify
-  2. GitHub Action generated    → isometric skyline, language donut
-  3. Static text art             → neofetch card, changelog
+Everything above is LIVE (no setup) EXCEPT the contribution snake.
 
-1) ISOMETRIC CONTRIBUTION SKYLINE
-   Uses yoshi389111/github-profile-3d-contrib. Add to
-   .github/workflows/3d-contrib.yml in your PROFILE repo (szyxxx/szyxxx):
+CONTRIBUTION SNAKE — add to .github/workflows/snake.yml in this
+profile repo (szyxxx/szyxxx):
 
-   name: 3D Contribution Graph
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
-   jobs:
-     build:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-           with:
-             username: szyxxx
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: profile-3d-contrib
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  name: Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  permissions:
+    contents: write
+  jobs:
+    snake:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: szyxxx
+            outputs: |
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_dots=#161b22,#22D3EE,#8B5CF6,#a78bfa,#E5E7EB
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-   Output files land in the `output` branch — update the <img> src above
-   to match the exact filename it generates (grid-snake-dark.svg or
-   profile-night-rainbow.svg depending on theme chosen).
-
-2) LANGUAGE DONUT (lowlighter/metrics)
-   Add to .github/workflows/metrics.yml:
-
-   name: Metrics
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-   jobs:
-     metrics:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: lowlighter/metrics@latest
-           with:
-             filename: metrics.languages.svg
-             token: ${{ secrets.METRICS_TOKEN }}
-             base: ""
-             plugin_languages: yes
-             plugin_languages_donut: yes
-             plugin_languages_colors: "#8B5CF6,#22D3EE,#0F0F1B"
-
-   Requires a Personal Access Token stored as METRICS_TOKEN secret
-   (repo + read:user scopes).
-
-3) REPLACE PLACEHOLDERS
-   - Swap `szyxxx` for your current GitHub username throughout.
-   - The neofetch card's "Uptime" and specs are hand-written text —
-     edit freely, it's just a fenced code block, no image dependency.
-   - Spotify widget uses your existing user id; leave as-is if still valid.
+Until the workflow runs once, the snake <img> 404s — run it manually
+via the Actions tab (workflow_dispatch) after committing.
 ════════════════════════════════════════════════════════════════
 -->
