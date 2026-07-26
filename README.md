@@ -77,14 +77,14 @@
 
 ### 🍩 Language Mix
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szyxxx&layout=donut&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9&hide_title=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%"/>
 
 </td>
 <td width="34%" valign="top">
 
 ### 📟 Core Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=szyxxx&hide_title=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=c9d1d9&show_icons=true&hide_rank=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%"/>
 
 </td>
 </tr>
