@@ -82,9 +82,9 @@
 </td>
 <td width="34%" valign="top">
 
-### 📟 Core Stats
+### ⏰ Commit Hours
 
-<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/szyxxx/szyxxx/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%"/>
 
 </td>
 </tr>
