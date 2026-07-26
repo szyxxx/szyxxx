@@ -2,7 +2,7 @@
 
 <img src="assets/axel-fetch.svg" width="100%" alt="axel — fetch card"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FFA657&center=true&vCenter=true&width=650&lines=building+multi-agent+systems+%40+ITB+Bandung;shipping+KawanAI+%2B+thesis;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+NestJS;turning+data+into+insight" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FFA657&center=true&vCenter=true&width=650&lines=building+multi-agent+systems+%40+ITB+Bandung;shipping+Asista+%2B+thesis;Python+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+NestJS;turning+data+into+insight" alt="typing"/>
 
 </div>
 
@@ -52,7 +52,7 @@
 
 ```diff
 + v2.4.0  thesis      multi-agent tax intelligence system — 7-agent architecture drafted
-+ v2.3.0  kawanai      shipped scroll-driven storytelling redesign for kawanai.id
++ v2.3.0  asista       shipped scroll-driven storytelling redesign (formerly KawanAI)
 * v2.2.0  asista       rewrote core PRD — introduced channel-hub microservice + unified order queue
 + v2.1.0  hackathon    designed BAHARI — coastal cooperative commodity platform
 * v2.0.0  research     applied PPDAC + XGBoost pipeline for financial distress detection
