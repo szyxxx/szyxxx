@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="545" viewBox="0 0 985 545" font-family="Consolas, 'Cascadia Code', Menlo, 'DejaVu Sans Mono', monospace">
+<rect x="0.5" y="0.5" width="984" height="544" rx="16" fill="#0d1117" stroke="#30363d"/>
+<g font-size="13" fill="#8b949e" xml:space="preserve">
+<text x="45" y="83" xml:space="preserve">         MMM.           .MMM</text>
+<text x="45" y="102" xml:space="preserve">         MMMMMMMMMMMMMMMMMMM</text>
+<text x="45" y="121" xml:space="preserve">         MMMMMMMMMMMMMMMMMMM</text>
+<text x="45" y="140" xml:space="preserve">        MMMMMMMMMMMMMMMMMMMMM</text>
+<text x="45" y="159" xml:space="preserve">       MMMMMMMMMMMMMMMMMMMMMMM</text>
+<text x="45" y="178" xml:space="preserve">      MMMMMMMMMMMMMMMMMMMMMMMM</text>
+<text x="45" y="197" xml:space="preserve">      MMMM::- -:::::::- -::MMMM</text>
+<text x="45" y="216" xml:space="preserve">       MM~:~ 00~:::::~ 00~:~MM</text>
+<text x="45" y="235" xml:space="preserve">  .. MMMMM::.00:::+:::.00::MMMMM ..</text>
+<text x="45" y="254" xml:space="preserve">        .MM::::: ._. :::::MM.</text>
+<text x="45" y="273" xml:space="preserve">           MMMM;:::::;MMMM</text>
+<text x="45" y="292" xml:space="preserve">    -MM        MMMMMMM</text>
+<text x="45" y="311" xml:space="preserve">    ^  M+     MMMMMMMMM</text>
+<text x="45" y="330" xml:space="preserve">        MMMMMMM MM MM MM</text>
+<text x="45" y="349" xml:space="preserve">             MM MM MM MM</text>
+<text x="45" y="368" xml:space="preserve">             MM MM MM MM</text>
+<text x="45" y="387" xml:space="preserve">          .~~MM~MM~MM~MM~~.</text>
+<text x="45" y="406" xml:space="preserve">       ~~~~MM:~MM~~~MM~:MM~~~~</text>
+<text x="45" y="425" xml:space="preserve">      ~~~~~~==~==~~~==~==~~~~~~</text>
+<text x="45" y="444" xml:space="preserve">       ~~~~~~==~==~==~==~~~~~~</text>
+<text x="45" y="463" xml:space="preserve">           :~==~==~==~==~~</text>
+</g>
+<g font-size="14" xml:space="preserve">
+<text x="400" y="45" xml:space="preserve"><tspan fill="#ff7b72" font-weight="bold">axel@github</tspan><tspan fill="#30363d"> ──────────────────────────────────────────────</tspan></text>
+<text x="400" y="85" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">OS: </tspan><tspan fill="#3d444d">............................ </tspan><tspan fill="#79c0ff">Windows 11, WSL2 Ubuntu</tspan></text>
+<text x="400" y="105" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Host: </tspan><tspan fill="#3d444d">............................... </tspan><tspan fill="#79c0ff">ITB Bandung — MSTI</tspan></text>
+<text x="400" y="125" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Kernel: </tspan><tspan fill="#3d444d">............................ </tspan><tspan fill="#79c0ff">AI Engineer / MLOps</tspan></text>
+<text x="400" y="145" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Shell: </tspan><tspan fill="#3d444d">........................... </tspan><tspan fill="#79c0ff">zsh + a lot of coffee</tspan></text>
+<text x="400" y="165" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">IDE: </tspan><tspan fill="#3d444d">.......................... </tspan><tspan fill="#79c0ff">VS Code, Jupyter, Cursor</tspan></text>
+<text x="400" y="205" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Languages.Programming: </tspan><tspan fill="#3d444d">........... </tspan><tspan fill="#79c0ff">Python, TS, SQL, Bash</tspan></text>
+<text x="400" y="225" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Languages.Computer: </tspan><tspan fill="#3d444d">.............. </tspan><tspan fill="#79c0ff">HTML, CSS, JSON, YAML</tspan></text>
+<text x="400" y="245" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Languages.Real: </tspan><tspan fill="#3d444d">.................... </tspan><tspan fill="#79c0ff">Indonesian, English</tspan></text>
+<text x="400" y="285" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Focus: </tspan><tspan fill="#3d444d">........................ </tspan><tspan fill="#79c0ff">Multi-Agent Systems, RAG</tspan></text>
+<text x="400" y="305" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Runtime: </tspan><tspan fill="#3d444d">...................... </tspan><tspan fill="#79c0ff">NestJS, FastAPI, Next.js</tspan></text>
+<text x="400" y="325" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Memory: </tspan><tspan fill="#3d444d">........................ </tspan><tspan fill="#79c0ff">Prisma, pgvector, Redis</tspan></text>
+<text x="400" y="345" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Currently: </tspan><tspan fill="#3d444d">................... </tspan><tspan fill="#79c0ff">shipping KawanAI + thesis</tspan></text>
+<text x="400" y="385" xml:space="preserve"><tspan fill="#ff7b72" font-weight="bold">- Contact </tspan><tspan fill="#30363d">────────────────────────────────────────────────</tspan></text>
+<text x="400" y="405" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Email: </tspan><tspan fill="#3d444d">............................. </tspan><tspan fill="#79c0ff">axelldvid@gmail.com</tspan></text>
+<text x="400" y="425" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">LinkedIn: </tspan><tspan fill="#3d444d">................................... </tspan><tspan fill="#79c0ff">axelldavid</tspan></text>
+<text x="400" y="445" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Instagram: </tspan><tspan fill="#3d444d">................................... </tspan><tspan fill="#79c0ff">axelldvid</tspan></text>
+<text x="400" y="485" xml:space="preserve"><tspan fill="#ff7b72" font-weight="bold">- GitHub Stats </tspan><tspan fill="#30363d">───────────────────────────────────────────</tspan></text>
+<text x="400" y="505" xml:space="preserve"><tspan fill="#3d444d">. </tspan><tspan fill="#ffa657">Telemetry: </tspan><tspan fill="#3d444d">.......................... </tspan><tspan fill="#79c0ff">live widgets below</tspan></text>
+</g>
+</svg>
