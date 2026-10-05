@@ -6,26 +6,26 @@
     <text x="273" y="38" fill="#30363d">───────────────────────────────────────────────────────────────</text>
   </g>
 
+  <!-- pager / pocket terminal -->
   <g font-size="13" fill="#c9d1d9" xml:space="preserve">
-    <text x="42" y="92">              ╭──────────────╮</text>
-    <text x="42" y="112">             ╱                ╲</text>
-    <text x="42" y="132">            │    ◉        ◉    │</text>
-    <text x="42" y="152">            │                  │</text>
-    <text x="42" y="172">            │       ──         │</text>
-    <text x="42" y="192">            │    ╭──────╮      │</text>
-    <text x="42" y="212">            │    ╰──────╯      │</text>
-    <text x="42" y="232">             ╲                ╱</text>
-    <text x="42" y="252">              ╰──────┬───────╯</text>
-    <text x="42" y="272">                   ╭─┴─╮</text>
-    <text x="42" y="292">             ╭─────┤   ├─────╮</text>
-    <text x="42" y="312">             │  ╭──┴───┴──╮  │</text>
-    <text x="42" y="332">             │  │ SYS/AI  │  │</text>
-    <text x="42" y="352">             │  ╰─────────╯  │</text>
-    <text x="42" y="372">             ╰────╮     ╭────╯</text>
-    <text x="42" y="392">                  │     │</text>
-    <text x="42" y="412">                 ╱       ╲</text>
-    <text x="42" y="432">                ╱         ╲</text>
-    <text x="42" y="468" fill="#8b949e">symbolic operator // no human portrait attached</text>
+    <text x="38" y="84">                        ╭─╮</text>
+    <text x="38" y="104">                        │ │</text>
+    <text x="38" y="124">          ╭─────────────┴─┴──────╮</text>
+    <text x="38" y="144">          │  AXL//PGR           01 │</text>
+    <text x="38" y="164">          │ ───────────────────── │</text>
+    <text x="38" y="184">          │                       │</text>
+    <text x="38" y="204">          │   INCOMING SIGNAL     │</text>
+    <text x="38" y="224">          │                       │</text>
+    <text x="38" y="244">          │   &gt; build.system      │</text>
+    <text x="38" y="264">          │   &gt; research.ai       │</text>
+    <text x="38" y="284">          │   &gt; ship.product      │</text>
+    <text x="38" y="304">          │                       │</text>
+    <text x="38" y="324">          │  ●  ●  ○        ONLINE │</text>
+    <text x="38" y="344">          │ ───────────────────── │</text>
+    <text x="38" y="364">          │  [◀]   [●]   [▶]      │</text>
+    <text x="38" y="384">          ╰──────────┬────────────╯</text>
+    <text x="38" y="404">                     ╵</text>
+    <text x="38" y="446" fill="#8b949e">pager:// receiving signal from somewhere interesting</text>
   </g>
 
   <g font-size="14" xml:space="preserve">
