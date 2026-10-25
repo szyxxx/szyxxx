@@ -16,7 +16,7 @@ axel@github:~$ mission
 turning messy signals into useful systems, products, and insight
 ```
 
-> M.S. Information System & Technology @ ITB Bandung  
+> M.E. Information System & Technology @ ITB Bandung  
 > Building agentic systems, digital products, and information systems that move beyond demos.
 
 ---
