@@ -28,7 +28,7 @@ turning messy signals into useful systems, products, and insight
 <td width="33%" valign="top">
 
 ### `01 / research`
-Exploring governable AI, multi-agent orchestration, and practical intelligence systems.
+Exploring face verification for e-KYC, computer vision, and practical intelligence systems.
 
 </td>
 <td width="33%" valign="top">
@@ -77,11 +77,11 @@ Designing clearer service journeys, unified operational flows, and systems that 
 <td width="50%" valign="top">
 
 ### `RESEARCH // THESIS`
-**Governable Agentic AI**
+**Face Verification in e-KYC**
 
-Researching how multi-agent systems can remain useful, auditable, controllable, and human-governed in public-facing digital systems.
+Researching how face verification can reliably confirm that the person onboarding is the person on the ID, making e-KYC services accurate, secure, and fair in real-world conditions.
 
-`Agentic AI` `HITL` `Governance` `Information Systems`
+`Face Verification` `e-KYC` `Computer Vision` `Biometrics`
 
 </td>
 <td width="50%" valign="top">
