@@ -65,11 +65,11 @@ A multi-agent system for helping lecturers structure curriculum, RPS, assessment
 <td width="50%" valign="top">
 
 ### `ASISTA`
-**Service orchestration as a product**
+**Business OS for Indonesian UMKM** · [asistenbisnista.com](https://asistenbisnista.com)
 
-Designing clearer service journeys, unified operational flows, and systems that make fragmented processes feel coherent.
+POS, recipe-based stock, bookkeeping, a QR table catalog, and an AI WhatsApp assistant in one app for warung, cafés, shops, and service businesses. Every sale cuts ingredients from stock, builds the P&L, and lands in a morning summary on WhatsApp, and the cashier keeps working offline.
 
-`Product Engineering` `System Design` `UX`
+`POS` `SaaS` `Offline-first` `WhatsApp AI`
 
 </td>
 </tr>
